@@ -1,2 +1,6 @@
-# data-wrangling-chap3-xmlimport
-Countermeasures the changed WHO site's XML data
+# Pythonではじめるデータラングリングのコード
+
+3章57～58ページにあるXMLデータインポートは、現在のbit.lyからダウンロードしたら動きません。  
+信用できる筋からの情報です。
+
+なので意地になって動くようなコード書いたので登録してみます。  
